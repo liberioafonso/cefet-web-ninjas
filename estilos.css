@@ -44,8 +44,6 @@ strong{
     background-color:pink;
 }
 body{
-    background-image: url(img/globo.png);
-    background-repeat:no-repeat;
     background-image: linear-gradient(rgb(97, 185, 207), rgb(77, 187, 187), rgb(139, 199, 235), rgb(171, 195, 218), rgb(155, 163, 163));
     background-size: cover;
     font-size: 18px;
